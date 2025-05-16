@@ -1,0 +1,1 @@
+# Solar_power_prediction_linear_regression
